@@ -92,6 +92,7 @@ Tasks:
 
 * Add prototype x87 FPU instruction/register support that works on both x86 and ARM
 * Port LLVM toolchain to work on x86 VM's operating environment
+* Port Go, Rust, or another language compiler to work on the x86 VM and with it's operating system
 * Add more opcode and decoding tests to ensure all opcode functionality is correct
 
 # Web Wallet
