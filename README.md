@@ -38,6 +38,7 @@ The current languages we are most interested in include: Java, Rust, Go, Python,
 Other Tasks:
 
 * Hard -  Database prototype for the x86 design backed by leveldb and capable of working in a consensus critical environment while allowing contracts to use infinite length key and value data. "Currently Qtum is using Ethereum's database for all contract storage needs. This has several shortcomings though that we wish to remedy. We want to be capable of storing unlimited (or almost unlimited) length key and value data, and for this data to be represented in an efficient and easy to query manner for modern solidstate drive and hard drive based servers." Some additional (rough) information about the x86 VM database is available [here](https://gist.github.com/Earlz/a42cfb526abb6108d82df0db1e702b5b).
+* Hard - Optimize EVM log indexing with [BloomBits Trie](https://github.com/zsfelfoldi/go-ethereum/wiki/BloomBits-Trie)
 
 
 # Qtum Core
