@@ -39,6 +39,9 @@ Other Tasks:
 
 * Hard -  Database prototype for the x86 design backed by leveldb and capable of working in a consensus critical environment while allowing contracts to use infinite length key and value data. "Currently Qtum is using Ethereum's database for all contract storage needs. This has several shortcomings though that we wish to remedy. We want to be capable of storing unlimited (or almost unlimited) length key and value data, and for this data to be represented in an efficient and easy to query manner for modern solidstate drive and hard drive based servers." Some additional (rough) information about the x86 VM database is available [here](https://gist.github.com/Earlz/a42cfb526abb6108d82df0db1e702b5b).
 
+## Bonus Bounty!
+
+We're beta testing [Qmix](https://github.com/kfichter/qmix-revamp), Qtum's new in-browser Solidity IDE. In order to get some additional feedback, we're offering a bounty for users to deploy a contract via Qmix. You can view and play with the latest live version [here](http://stockyard-app.s3-website-us-east-1.amazonaws.com).
 
 # Qtum Core
 https://github.com/qtumproject/qtum
@@ -81,7 +84,7 @@ This is a lightweight wallet-only version of Qtum. This version can be used for 
 Tasks:
 
 # Qmix
-https://github.com/kfichter/qmix
+https://github.com/kfichter/qmix-revamp
 
 Qmix is Qtum's in-browser Solidity IDE (an homage to [remix](https://remix.ethereum.org)). Qmix is currently very much in beta, and we're looking for feedback! We've got a bunch of things that currently don't work and a lot of room for feedback.
 
