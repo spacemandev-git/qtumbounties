@@ -20,6 +20,13 @@ The following is a list of projects and prototypes with open bounties and issues
 
 ## Create your own Dapp
 
+Resources:
+
+* https://github.com/qtumproject/qtumjs-dapp-erc20
+* https://github.com/qtumproject/qtumbook
+* https://github.com/qtumproject/qtumjs-crowdsale-cli
+* https://github.com/qtumproject/QRC20Token
+
 
 ## APIs - Medium
 The APIs for Qtum allow for smart contract and decentralized application developers to create a front end and otherwise interact and analyze the data and objects stored on the Qtum blockchain. Similar projects to these include web3.js (for Ethereum) and BitcoinJS (for Bitcoin). These APIs commonly provide other utilities and dependencies needed for interacting with the blockchain, such as applicable hashing algorithms, encryption, etc. 
@@ -84,7 +91,9 @@ Tasks:
 # x86 VM
 https://github.com/qtumproject/x86lib
 
-This is a specialized x86 based virtual machine implementing the Intel i686 instruction set. This is Qtum's future direction and will allow developers to write smart contracts in mainstream programming languages such as C++, Rust, and Go. There is also a prototype GCC based toolchain targeting the "operating system" implemented by this VM.
+https://github.com/qtumproject/x86-toolchain
+
+This is a specialized x86 based virtual machine implementing the Intel i686 instruction set. This is Qtum's future direction and will allow developers to write smart contracts in mainstream programming languages such as C++, Rust, and Go. There is also a prototype GCC based toolchain targeting the "operating system" implemented by this VM. Some additional info about the x86 technical design can be found [here](https://gist.github.com/Earlz/5e5c862b87a55872a20a2c3653a2e521)
 
 Tasks:
 
