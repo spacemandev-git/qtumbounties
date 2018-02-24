@@ -87,6 +87,7 @@ Qmix is Qtum's in-browser Solidity IDE (an homage to [remix](https://remix.ether
 
 Tasks:
 - Medium - We currently only allow importing files from within Qtum. We want to allow imports from github gists as well.
+- Easy - Build and deploy any DAPP using Qmix and report any feature requests or bugs
 
 # x86 VM
 https://github.com/qtumproject/x86lib
