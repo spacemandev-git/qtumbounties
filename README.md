@@ -86,6 +86,8 @@ https://github.com/qtumproject/x86lib
 
 This is a specialized x86 based virtual machine implementing the Intel i686 instruction set. This is Qtum's future direction and will allow developers to write smart contracts in mainstream programming languages such as C++, Rust, and Go. There is also a prototype GCC based toolchain targeting the "operating system" implemented by this VM.
 
+Some additional (rough) information about the x86 VM is available [here](https://gist.github.com/Earlz/a42cfb526abb6108d82df0db1e702b5b).
+
 Tasks:
 
 * Add prototype x87 FPU instruction/register support that works on both x86 and ARM
