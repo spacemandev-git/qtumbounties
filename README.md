@@ -7,6 +7,9 @@ Resources:
 * https://github.com/qtumproject/qtumjs-crowdsale-cli
 * https://github.com/qtumproject/QRC20Token
 
+QMIX (Online Smart Contract Editor for Qtum DAPPS): qmix.blockchainspaceman.com 
+Gitter for asking questions: https://gitter.im/qtum-project/Lobby
+
 # Qtum Core
 https://github.com/qtumproject/qtum
 
